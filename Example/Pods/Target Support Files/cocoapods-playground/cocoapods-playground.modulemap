@@ -1,0 +1,6 @@
+framework module cocoapods_playground {
+  umbrella header "cocoapods-playground-umbrella.h"
+
+  export *
+  module * { export * }
+}
