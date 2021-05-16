@@ -33,10 +33,10 @@
 		0CA9E404A2A24DE088B1659489839E26 /* Pods-cocoapods-playground-cocoapods-playgroundUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests-dummy.m"; sourceTree = "<group>"; };
 		0E8365A3DDFD4789D7927EF69F319491 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig"; sourceTree = "<group>"; };
 		11169AE84F5073F07BBBF917EBE10DBA /* Pods-cocoapods-playgroundTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-cocoapods-playgroundTests.modulemap"; sourceTree = "<group>"; };
-		1EA3194AE82AA685558E36A78F225E93 /* Pods_cocoapods_playground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_cocoapods_playground.framework; path = "Pods-cocoapods-playground.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1EA3194AE82AA685558E36A78F225E93 /* Pods_cocoapods_playground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C3E987BCAFC43A2549A7CB807F319A6 /* Pods-cocoapods-playgroundTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-cocoapods-playgroundTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3559F83E2DAD2F30539059ED6EEBBAA4 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		37F5226E604335916BAA8012FAA4370C /* Pods_cocoapods_playgroundTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_cocoapods_playgroundTests.framework; path = "Pods-cocoapods-playgroundTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37F5226E604335916BAA8012FAA4370C /* Pods_cocoapods_playgroundTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playgroundTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		38B2C7DCF6974F25D480845EB9874AA8 /* Pods-cocoapods-playground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-cocoapods-playground.debug.xcconfig"; sourceTree = "<group>"; };
 		3B1410023121ED8AE566D3D822A461E4 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests.modulemap"; sourceTree = "<group>"; };
 		3D1376D6C17B4033C535D9233657B573 /* Pods-cocoapods-playgroundTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-cocoapods-playgroundTests-dummy.m"; sourceTree = "<group>"; };
@@ -44,11 +44,11 @@
 		57245D3B891B8D95131036DA59E55E76 /* Pods-cocoapods-playground-cocoapods-playgroundUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests-umbrella.h"; sourceTree = "<group>"; };
 		6BA742EA76BECDBA7C6AC1AA9496B4EB /* Pods-cocoapods-playground-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-cocoapods-playground-acknowledgements.plist"; sourceTree = "<group>"; };
 		7EC4963450B9AB670D6C1CB18D5BB499 /* Pods-cocoapods-playground-cocoapods-playgroundUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		804906B8C7E2A7F6F6C5BE69451A5559 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_cocoapods_playground_cocoapods_playgroundUITests.framework; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		804906B8C7E2A7F6F6C5BE69451A5559 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playground_cocoapods_playgroundUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8097E992CA75721A5EC0D33BD19609EF /* Pods-cocoapods-playground-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-cocoapods-playground-acknowledgements.markdown"; sourceTree = "<group>"; };
 		83CD6B4FA654730193295B45ECF28DB6 /* Pods-cocoapods-playgroundTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-cocoapods-playgroundTests-acknowledgements.plist"; sourceTree = "<group>"; };
 		96A9CAD5154E1FF399BF97B9565C0D64 /* Pods-cocoapods-playground-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-cocoapods-playground-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A892B01C8D706607DFD75F60629740F1 /* Pods-cocoapods-playgroundTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-cocoapods-playgroundTests-umbrella.h"; sourceTree = "<group>"; };
 		A94DB80B02DF5E57278358AB3B14FAF9 /* Pods-cocoapods-playground-cocoapods-playgroundUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-cocoapods-playground-cocoapods-playgroundUITests-Info.plist"; sourceTree = "<group>"; };
 		C1430F003D39D9906881A6AC724B7931 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
@@ -274,7 +274,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastUpgradeCheck = 1250;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 9.3";
@@ -362,7 +362,6 @@
 			baseConfigurationReference = 38B2C7DCF6974F25D480845EB9874AA8 /* Pods-cocoapods-playground.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -399,7 +398,6 @@
 			baseConfigurationReference = D8D8795BE74DC3D15478C238625A22E6 /* Pods-cocoapods-playground.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -436,7 +434,6 @@
 			baseConfigurationReference = 3559F83E2DAD2F30539059ED6EEBBAA4 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -535,7 +532,6 @@
 			baseConfigurationReference = E2505795AC684AEC182B26019AB4954F /* Pods-cocoapods-playgroundTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -572,7 +568,6 @@
 			baseConfigurationReference = 0E8365A3DDFD4789D7927EF69F319491 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
@@ -675,7 +670,6 @@
 			baseConfigurationReference = E24AB3E6DCAFCC21CF014330C8898A58 /* Pods-cocoapods-playgroundTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
