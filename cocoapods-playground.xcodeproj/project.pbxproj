@@ -14,6 +14,7 @@
 		4C116FC52650ED4F00ED63F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FC42650ED4F00ED63F4 /* main.m */; };
 		4C116FD02650ED4F00ED63F4 /* cocoapods_playgroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FCF2650ED4F00ED63F4 /* cocoapods_playgroundTests.m */; };
 		4C116FDB2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FDA2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m */; };
+		4C810AFE265177E400FB3CC6 /* textview.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C810AFD265177E400FB3CC6 /* textview.m */; };
 		9C5F159C1E92EF55AB543F12 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D2F454E1139416649817C988 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework */; };
 		AC8A467E79DF87EAADAABE46 /* Pods_cocoapods_playground.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6548409EDAB403FBF06C3101 /* Pods_cocoapods_playground.framework */; };
 		E56E3FB961C98168335A0D26 /* Pods_cocoapods_playgroundTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71D7A0A40DE2FAE92B583EFD /* Pods_cocoapods_playgroundTests.framework */; };
@@ -55,6 +56,8 @@
 		4C116FD62650ED4F00ED63F4 /* cocoapods-playgroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cocoapods-playgroundUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C116FDA2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cocoapods_playgroundUITests.m; sourceTree = "<group>"; };
 		4C116FDC2650ED4F00ED63F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C810AFC265177E400FB3CC6 /* textview.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = textview.h; sourceTree = "<group>"; };
+		4C810AFD265177E400FB3CC6 /* textview.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = textview.m; sourceTree = "<group>"; };
 		6548409EDAB403FBF06C3101 /* Pods_cocoapods_playground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71D7A0A40DE2FAE92B583EFD /* Pods_cocoapods_playgroundTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playgroundTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		82864A256013999A1EE85667 /* Pods-cocoapods-playgroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playgroundTests.release.xcconfig"; path = "Target Support Files/Pods-cocoapods-playgroundTests/Pods-cocoapods-playgroundTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -125,6 +128,8 @@
 				4C116FC02650ED4F00ED63F4 /* Main.storyboard */,
 				4C116FC32650ED4F00ED63F4 /* Info.plist */,
 				4C116FC42650ED4F00ED63F4 /* main.m */,
+				4C810AFC265177E400FB3CC6 /* textview.h */,
+				4C810AFD265177E400FB3CC6 /* textview.m */,
 				4C116FC62650ED4F00ED63F4 /* cocoapods_playground.entitlements */,
 			);
 			path = "cocoapods-playground";
@@ -372,6 +377,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4C116FBD2650ED4E00ED63F4 /* ViewController.m in Sources */,
+				4C810AFE265177E400FB3CC6 /* textview.m in Sources */,
 				4C116FC52650ED4F00ED63F4 /* main.m in Sources */,
 				4C116FBA2650ED4E00ED63F4 /* AppDelegate.m in Sources */,
 			);
