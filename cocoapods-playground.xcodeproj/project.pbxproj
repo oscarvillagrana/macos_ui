@@ -7,182 +7,182 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		396490303C3AD8778FE10677 /* libPods-cocoapods-playgroundTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CC916D58858A66C5DECCDCAA /* libPods-cocoapods-playgroundTests.a */; };
-		4C5B90F82650E88900E45104 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C5B90F72650E88900E45104 /* AppDelegate.m */; };
-		4C5B90FB2650E88900E45104 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C5B90FA2650E88900E45104 /* ViewController.m */; };
-		4C5B90FD2650E88A00E45104 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C5B90FC2650E88A00E45104 /* Assets.xcassets */; };
-		4C5B91002650E88A00E45104 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C5B90FE2650E88A00E45104 /* Main.storyboard */; };
-		4C5B91032650E88A00E45104 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C5B91022650E88A00E45104 /* main.m */; };
-		4C5B910E2650E88A00E45104 /* cocoapods_playgroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C5B910D2650E88A00E45104 /* cocoapods_playgroundTests.m */; };
-		4C5B91192650E88A00E45104 /* cocoapods_playgroundUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C5B91182650E88A00E45104 /* cocoapods_playgroundUITests.m */; };
-		DB1447D6AC54B6BA55881CF0 /* libPods-cocoapods-playground.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 52AA57A61815B4C7A15D4A28 /* libPods-cocoapods-playground.a */; };
-		E538773ADA18CD18D219BE49 /* libPods-cocoapods-playground-cocoapods-playgroundUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 33D2F6D70C4E70A50C22EC9E /* libPods-cocoapods-playground-cocoapods-playgroundUITests.a */; };
+		4C116FBA2650ED4E00ED63F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FB92650ED4E00ED63F4 /* AppDelegate.m */; };
+		4C116FBD2650ED4E00ED63F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FBC2650ED4E00ED63F4 /* ViewController.m */; };
+		4C116FBF2650ED4F00ED63F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C116FBE2650ED4F00ED63F4 /* Assets.xcassets */; };
+		4C116FC22650ED4F00ED63F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C116FC02650ED4F00ED63F4 /* Main.storyboard */; };
+		4C116FC52650ED4F00ED63F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FC42650ED4F00ED63F4 /* main.m */; };
+		4C116FD02650ED4F00ED63F4 /* cocoapods_playgroundTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FCF2650ED4F00ED63F4 /* cocoapods_playgroundTests.m */; };
+		4C116FDB2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C116FDA2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m */; };
+		9C5F159C1E92EF55AB543F12 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D2F454E1139416649817C988 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework */; };
+		AC8A467E79DF87EAADAABE46 /* Pods_cocoapods_playground.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6548409EDAB403FBF06C3101 /* Pods_cocoapods_playground.framework */; };
+		E56E3FB961C98168335A0D26 /* Pods_cocoapods_playgroundTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71D7A0A40DE2FAE92B583EFD /* Pods_cocoapods_playgroundTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4C5B910A2650E88A00E45104 /* PBXContainerItemProxy */ = {
+		4C116FCC2650ED4F00ED63F4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4C5B90EB2650E88900E45104 /* Project object */;
+			containerPortal = 4C116FAD2650ED4E00ED63F4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4C5B90F22650E88900E45104;
+			remoteGlobalIDString = 4C116FB42650ED4E00ED63F4;
 			remoteInfo = "cocoapods-playground";
 		};
-		4C5B91152650E88A00E45104 /* PBXContainerItemProxy */ = {
+		4C116FD72650ED4F00ED63F4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 4C5B90EB2650E88900E45104 /* Project object */;
+			containerPortal = 4C116FAD2650ED4E00ED63F4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4C5B90F22650E88900E45104;
+			remoteGlobalIDString = 4C116FB42650ED4E00ED63F4;
 			remoteInfo = "cocoapods-playground";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B74B4962313098D9C4C8FCE /* Pods-cocoapods-playground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground.release.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground/Pods-cocoapods-playground.release.xcconfig"; sourceTree = "<group>"; };
-		0FCFDB6E12EC3D477832D659 /* Pods-cocoapods-playgroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playgroundTests.debug.xcconfig"; path = "Target Support Files/Pods-cocoapods-playgroundTests/Pods-cocoapods-playgroundTests.debug.xcconfig"; sourceTree = "<group>"; };
-		33D2F6D70C4E70A50C22EC9E /* libPods-cocoapods-playground-cocoapods-playgroundUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-cocoapods-playground-cocoapods-playgroundUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		38415934BDC136B5A2E58CD6 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground-cocoapods-playgroundUITests/Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		43D7641388BBD788F3D482F9 /* Pods-cocoapods-playgroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playgroundTests.release.xcconfig"; path = "Target Support Files/Pods-cocoapods-playgroundTests/Pods-cocoapods-playgroundTests.release.xcconfig"; sourceTree = "<group>"; };
-		4C5B90F32650E88900E45104 /* cocoapods-playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cocoapods-playground.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C5B90F62650E88900E45104 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		4C5B90F72650E88900E45104 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		4C5B90F92650E88900E45104 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		4C5B90FA2650E88900E45104 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		4C5B90FC2650E88A00E45104 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4C5B90FF2650E88A00E45104 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4C5B91012650E88A00E45104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4C5B91022650E88A00E45104 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4C5B91042650E88A00E45104 /* cocoapods_playground.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = cocoapods_playground.entitlements; sourceTree = "<group>"; };
-		4C5B91092650E88A00E45104 /* cocoapods-playgroundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cocoapods-playgroundTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C5B910D2650E88A00E45104 /* cocoapods_playgroundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cocoapods_playgroundTests.m; sourceTree = "<group>"; };
-		4C5B910F2650E88A00E45104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4C5B91142650E88A00E45104 /* cocoapods-playgroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cocoapods-playgroundUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4C5B91182650E88A00E45104 /* cocoapods_playgroundUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cocoapods_playgroundUITests.m; sourceTree = "<group>"; };
-		4C5B911A2650E88A00E45104 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		52AA57A61815B4C7A15D4A28 /* libPods-cocoapods-playground.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-cocoapods-playground.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8328B9EA9354D248842751E7 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground-cocoapods-playgroundUITests/Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig"; sourceTree = "<group>"; };
-		CC916D58858A66C5DECCDCAA /* libPods-cocoapods-playgroundTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-cocoapods-playgroundTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EB30E6752B47BB0676224FCA /* Pods-cocoapods-playground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground.debug.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground/Pods-cocoapods-playground.debug.xcconfig"; sourceTree = "<group>"; };
+		0F90E54A95CADB30B799AC04 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground-cocoapods-playgroundUITests/Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		1C5D58B21C00F477305C31E0 /* Pods-cocoapods-playground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground.debug.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground/Pods-cocoapods-playground.debug.xcconfig"; sourceTree = "<group>"; };
+		4C116FB52650ED4E00ED63F4 /* cocoapods-playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cocoapods-playground.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C116FB82650ED4E00ED63F4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		4C116FB92650ED4E00ED63F4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		4C116FBB2650ED4E00ED63F4 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		4C116FBC2650ED4E00ED63F4 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		4C116FBE2650ED4F00ED63F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4C116FC12650ED4F00ED63F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4C116FC32650ED4F00ED63F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C116FC42650ED4F00ED63F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4C116FC62650ED4F00ED63F4 /* cocoapods_playground.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = cocoapods_playground.entitlements; sourceTree = "<group>"; };
+		4C116FCB2650ED4F00ED63F4 /* cocoapods-playgroundTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cocoapods-playgroundTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C116FCF2650ED4F00ED63F4 /* cocoapods_playgroundTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cocoapods_playgroundTests.m; sourceTree = "<group>"; };
+		4C116FD12650ED4F00ED63F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C116FD62650ED4F00ED63F4 /* cocoapods-playgroundUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "cocoapods-playgroundUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C116FDA2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = cocoapods_playgroundUITests.m; sourceTree = "<group>"; };
+		4C116FDC2650ED4F00ED63F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6548409EDAB403FBF06C3101 /* Pods_cocoapods_playground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		71D7A0A40DE2FAE92B583EFD /* Pods_cocoapods_playgroundTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playgroundTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		82864A256013999A1EE85667 /* Pods-cocoapods-playgroundTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playgroundTests.release.xcconfig"; path = "Target Support Files/Pods-cocoapods-playgroundTests/Pods-cocoapods-playgroundTests.release.xcconfig"; sourceTree = "<group>"; };
+		8C39F26BA0C35E264D827FE6 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground-cocoapods-playgroundUITests/Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig"; sourceTree = "<group>"; };
+		BF336AB7A5657C3DE0050C79 /* Pods-cocoapods-playground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playground.release.xcconfig"; path = "Target Support Files/Pods-cocoapods-playground/Pods-cocoapods-playground.release.xcconfig"; sourceTree = "<group>"; };
+		C6F96613EB08A8928BF2BABB /* Pods-cocoapods-playgroundTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-cocoapods-playgroundTests.debug.xcconfig"; path = "Target Support Files/Pods-cocoapods-playgroundTests/Pods-cocoapods-playgroundTests.debug.xcconfig"; sourceTree = "<group>"; };
+		D2F454E1139416649817C988 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_cocoapods_playground_cocoapods_playgroundUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4C5B90F02650E88900E45104 /* Frameworks */ = {
+		4C116FB22650ED4E00ED63F4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DB1447D6AC54B6BA55881CF0 /* libPods-cocoapods-playground.a in Frameworks */,
+				AC8A467E79DF87EAADAABE46 /* Pods_cocoapods_playground.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C5B91062650E88A00E45104 /* Frameworks */ = {
+		4C116FC82650ED4F00ED63F4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				396490303C3AD8778FE10677 /* libPods-cocoapods-playgroundTests.a in Frameworks */,
+				E56E3FB961C98168335A0D26 /* Pods_cocoapods_playgroundTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C5B91112650E88A00E45104 /* Frameworks */ = {
+		4C116FD32650ED4F00ED63F4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E538773ADA18CD18D219BE49 /* libPods-cocoapods-playground-cocoapods-playgroundUITests.a in Frameworks */,
+				9C5F159C1E92EF55AB543F12 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1057C53D0D122DAF7CEFC960 /* Pods */ = {
+		4C116FAC2650ED4E00ED63F4 = {
 			isa = PBXGroup;
 			children = (
-				EB30E6752B47BB0676224FCA /* Pods-cocoapods-playground.debug.xcconfig */,
-				0B74B4962313098D9C4C8FCE /* Pods-cocoapods-playground.release.xcconfig */,
-				38415934BDC136B5A2E58CD6 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */,
-				8328B9EA9354D248842751E7 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */,
-				0FCFDB6E12EC3D477832D659 /* Pods-cocoapods-playgroundTests.debug.xcconfig */,
-				43D7641388BBD788F3D482F9 /* Pods-cocoapods-playgroundTests.release.xcconfig */,
+				4C116FB72650ED4E00ED63F4 /* cocoapods-playground */,
+				4C116FCE2650ED4F00ED63F4 /* cocoapods-playgroundTests */,
+				4C116FD92650ED4F00ED63F4 /* cocoapods-playgroundUITests */,
+				4C116FB62650ED4E00ED63F4 /* Products */,
+				BDB55B21F76F068D73B6D5BF /* Pods */,
+				7F7B7F1ACC6A6B89C3205C77 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		4C116FB62650ED4E00ED63F4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4C116FB52650ED4E00ED63F4 /* cocoapods-playground.app */,
+				4C116FCB2650ED4F00ED63F4 /* cocoapods-playgroundTests.xctest */,
+				4C116FD62650ED4F00ED63F4 /* cocoapods-playgroundUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4C116FB72650ED4E00ED63F4 /* cocoapods-playground */ = {
+			isa = PBXGroup;
+			children = (
+				4C116FB82650ED4E00ED63F4 /* AppDelegate.h */,
+				4C116FB92650ED4E00ED63F4 /* AppDelegate.m */,
+				4C116FBB2650ED4E00ED63F4 /* ViewController.h */,
+				4C116FBC2650ED4E00ED63F4 /* ViewController.m */,
+				4C116FBE2650ED4F00ED63F4 /* Assets.xcassets */,
+				4C116FC02650ED4F00ED63F4 /* Main.storyboard */,
+				4C116FC32650ED4F00ED63F4 /* Info.plist */,
+				4C116FC42650ED4F00ED63F4 /* main.m */,
+				4C116FC62650ED4F00ED63F4 /* cocoapods_playground.entitlements */,
+			);
+			path = "cocoapods-playground";
+			sourceTree = "<group>";
+		};
+		4C116FCE2650ED4F00ED63F4 /* cocoapods-playgroundTests */ = {
+			isa = PBXGroup;
+			children = (
+				4C116FCF2650ED4F00ED63F4 /* cocoapods_playgroundTests.m */,
+				4C116FD12650ED4F00ED63F4 /* Info.plist */,
+			);
+			path = "cocoapods-playgroundTests";
+			sourceTree = "<group>";
+		};
+		4C116FD92650ED4F00ED63F4 /* cocoapods-playgroundUITests */ = {
+			isa = PBXGroup;
+			children = (
+				4C116FDA2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m */,
+				4C116FDC2650ED4F00ED63F4 /* Info.plist */,
+			);
+			path = "cocoapods-playgroundUITests";
+			sourceTree = "<group>";
+		};
+		7F7B7F1ACC6A6B89C3205C77 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6548409EDAB403FBF06C3101 /* Pods_cocoapods_playground.framework */,
+				D2F454E1139416649817C988 /* Pods_cocoapods_playground_cocoapods_playgroundUITests.framework */,
+				71D7A0A40DE2FAE92B583EFD /* Pods_cocoapods_playgroundTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BDB55B21F76F068D73B6D5BF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1C5D58B21C00F477305C31E0 /* Pods-cocoapods-playground.debug.xcconfig */,
+				BF336AB7A5657C3DE0050C79 /* Pods-cocoapods-playground.release.xcconfig */,
+				0F90E54A95CADB30B799AC04 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */,
+				8C39F26BA0C35E264D827FE6 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */,
+				C6F96613EB08A8928BF2BABB /* Pods-cocoapods-playgroundTests.debug.xcconfig */,
+				82864A256013999A1EE85667 /* Pods-cocoapods-playgroundTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
-		4C5B90EA2650E88900E45104 = {
-			isa = PBXGroup;
-			children = (
-				4C5B90F52650E88900E45104 /* cocoapods-playground */,
-				4C5B910C2650E88A00E45104 /* cocoapods-playgroundTests */,
-				4C5B91172650E88A00E45104 /* cocoapods-playgroundUITests */,
-				4C5B90F42650E88900E45104 /* Products */,
-				1057C53D0D122DAF7CEFC960 /* Pods */,
-				BEFD4EAA0F0EC11476E0E5BA /* Frameworks */,
-			);
-			sourceTree = "<group>";
-		};
-		4C5B90F42650E88900E45104 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				4C5B90F32650E88900E45104 /* cocoapods-playground.app */,
-				4C5B91092650E88A00E45104 /* cocoapods-playgroundTests.xctest */,
-				4C5B91142650E88A00E45104 /* cocoapods-playgroundUITests.xctest */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		4C5B90F52650E88900E45104 /* cocoapods-playground */ = {
-			isa = PBXGroup;
-			children = (
-				4C5B90F62650E88900E45104 /* AppDelegate.h */,
-				4C5B90F72650E88900E45104 /* AppDelegate.m */,
-				4C5B90F92650E88900E45104 /* ViewController.h */,
-				4C5B90FA2650E88900E45104 /* ViewController.m */,
-				4C5B90FC2650E88A00E45104 /* Assets.xcassets */,
-				4C5B90FE2650E88A00E45104 /* Main.storyboard */,
-				4C5B91012650E88A00E45104 /* Info.plist */,
-				4C5B91022650E88A00E45104 /* main.m */,
-				4C5B91042650E88A00E45104 /* cocoapods_playground.entitlements */,
-			);
-			path = "cocoapods-playground";
-			sourceTree = "<group>";
-		};
-		4C5B910C2650E88A00E45104 /* cocoapods-playgroundTests */ = {
-			isa = PBXGroup;
-			children = (
-				4C5B910D2650E88A00E45104 /* cocoapods_playgroundTests.m */,
-				4C5B910F2650E88A00E45104 /* Info.plist */,
-			);
-			path = "cocoapods-playgroundTests";
-			sourceTree = "<group>";
-		};
-		4C5B91172650E88A00E45104 /* cocoapods-playgroundUITests */ = {
-			isa = PBXGroup;
-			children = (
-				4C5B91182650E88A00E45104 /* cocoapods_playgroundUITests.m */,
-				4C5B911A2650E88A00E45104 /* Info.plist */,
-			);
-			path = "cocoapods-playgroundUITests";
-			sourceTree = "<group>";
-		};
-		BEFD4EAA0F0EC11476E0E5BA /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				52AA57A61815B4C7A15D4A28 /* libPods-cocoapods-playground.a */,
-				33D2F6D70C4E70A50C22EC9E /* libPods-cocoapods-playground-cocoapods-playgroundUITests.a */,
-				CC916D58858A66C5DECCDCAA /* libPods-cocoapods-playgroundTests.a */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4C5B90F22650E88900E45104 /* cocoapods-playground */ = {
+		4C116FB42650ED4E00ED63F4 /* cocoapods-playground */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4C5B911D2650E88A00E45104 /* Build configuration list for PBXNativeTarget "cocoapods-playground" */;
+			buildConfigurationList = 4C116FDF2650ED4F00ED63F4 /* Build configuration list for PBXNativeTarget "cocoapods-playground" */;
 			buildPhases = (
-				3BC8941473FE2B6E285839C8 /* [CP] Check Pods Manifest.lock */,
-				4C5B90EF2650E88900E45104 /* Sources */,
-				4C5B90F02650E88900E45104 /* Frameworks */,
-				4C5B90F12650E88900E45104 /* Resources */,
+				E0AE265ECB8CEF4BAF017629 /* [CP] Check Pods Manifest.lock */,
+				4C116FB12650ED4E00ED63F4 /* Sources */,
+				4C116FB22650ED4E00ED63F4 /* Frameworks */,
+				4C116FB32650ED4E00ED63F4 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -190,69 +190,69 @@
 			);
 			name = "cocoapods-playground";
 			productName = "cocoapods-playground";
-			productReference = 4C5B90F32650E88900E45104 /* cocoapods-playground.app */;
+			productReference = 4C116FB52650ED4E00ED63F4 /* cocoapods-playground.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4C5B91082650E88A00E45104 /* cocoapods-playgroundTests */ = {
+		4C116FCA2650ED4F00ED63F4 /* cocoapods-playgroundTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4C5B91202650E88A00E45104 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundTests" */;
+			buildConfigurationList = 4C116FE22650ED4F00ED63F4 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundTests" */;
 			buildPhases = (
-				6EB6946AD218D067B7B99515 /* [CP] Check Pods Manifest.lock */,
-				4C5B91052650E88A00E45104 /* Sources */,
-				4C5B91062650E88A00E45104 /* Frameworks */,
-				4C5B91072650E88A00E45104 /* Resources */,
+				63DF104C5C4849F8726C3A4E /* [CP] Check Pods Manifest.lock */,
+				4C116FC72650ED4F00ED63F4 /* Sources */,
+				4C116FC82650ED4F00ED63F4 /* Frameworks */,
+				4C116FC92650ED4F00ED63F4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4C5B910B2650E88A00E45104 /* PBXTargetDependency */,
+				4C116FCD2650ED4F00ED63F4 /* PBXTargetDependency */,
 			);
 			name = "cocoapods-playgroundTests";
 			productName = "cocoapods-playgroundTests";
-			productReference = 4C5B91092650E88A00E45104 /* cocoapods-playgroundTests.xctest */;
+			productReference = 4C116FCB2650ED4F00ED63F4 /* cocoapods-playgroundTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		4C5B91132650E88A00E45104 /* cocoapods-playgroundUITests */ = {
+		4C116FD52650ED4F00ED63F4 /* cocoapods-playgroundUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4C5B91232650E88A00E45104 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundUITests" */;
+			buildConfigurationList = 4C116FE52650ED4F00ED63F4 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundUITests" */;
 			buildPhases = (
-				04FA3252897CE117883D45CA /* [CP] Check Pods Manifest.lock */,
-				4C5B91102650E88A00E45104 /* Sources */,
-				4C5B91112650E88A00E45104 /* Frameworks */,
-				4C5B91122650E88A00E45104 /* Resources */,
+				F94127C68FB5F7C615C16B14 /* [CP] Check Pods Manifest.lock */,
+				4C116FD22650ED4F00ED63F4 /* Sources */,
+				4C116FD32650ED4F00ED63F4 /* Frameworks */,
+				4C116FD42650ED4F00ED63F4 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4C5B91162650E88A00E45104 /* PBXTargetDependency */,
+				4C116FD82650ED4F00ED63F4 /* PBXTargetDependency */,
 			);
 			name = "cocoapods-playgroundUITests";
 			productName = "cocoapods-playgroundUITests";
-			productReference = 4C5B91142650E88A00E45104 /* cocoapods-playgroundUITests.xctest */;
+			productReference = 4C116FD62650ED4F00ED63F4 /* cocoapods-playgroundUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4C5B90EB2650E88900E45104 /* Project object */ = {
+		4C116FAD2650ED4E00ED63F4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1250;
 				TargetAttributes = {
-					4C5B90F22650E88900E45104 = {
+					4C116FB42650ED4E00ED63F4 = {
 						CreatedOnToolsVersion = 12.5;
 					};
-					4C5B91082650E88A00E45104 = {
+					4C116FCA2650ED4F00ED63F4 = {
 						CreatedOnToolsVersion = 12.5;
-						TestTargetID = 4C5B90F22650E88900E45104;
+						TestTargetID = 4C116FB42650ED4E00ED63F4;
 					};
-					4C5B91132650E88A00E45104 = {
+					4C116FD52650ED4F00ED63F4 = {
 						CreatedOnToolsVersion = 12.5;
-						TestTargetID = 4C5B90F22650E88900E45104;
+						TestTargetID = 4C116FB42650ED4E00ED63F4;
 					};
 				};
 			};
-			buildConfigurationList = 4C5B90EE2650E88900E45104 /* Build configuration list for PBXProject "cocoapods-playground" */;
+			buildConfigurationList = 4C116FB02650ED4E00ED63F4 /* Build configuration list for PBXProject "cocoapods-playground" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -260,36 +260,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 4C5B90EA2650E88900E45104;
-			productRefGroup = 4C5B90F42650E88900E45104 /* Products */;
+			mainGroup = 4C116FAC2650ED4E00ED63F4;
+			productRefGroup = 4C116FB62650ED4E00ED63F4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4C5B90F22650E88900E45104 /* cocoapods-playground */,
-				4C5B91082650E88A00E45104 /* cocoapods-playgroundTests */,
-				4C5B91132650E88A00E45104 /* cocoapods-playgroundUITests */,
+				4C116FB42650ED4E00ED63F4 /* cocoapods-playground */,
+				4C116FCA2650ED4F00ED63F4 /* cocoapods-playgroundTests */,
+				4C116FD52650ED4F00ED63F4 /* cocoapods-playgroundUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4C5B90F12650E88900E45104 /* Resources */ = {
+		4C116FB32650ED4E00ED63F4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C5B90FD2650E88A00E45104 /* Assets.xcassets in Resources */,
-				4C5B91002650E88A00E45104 /* Main.storyboard in Resources */,
+				4C116FBF2650ED4F00ED63F4 /* Assets.xcassets in Resources */,
+				4C116FC22650ED4F00ED63F4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C5B91072650E88A00E45104 /* Resources */ = {
+		4C116FC92650ED4F00ED63F4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C5B91122650E88A00E45104 /* Resources */ = {
+		4C116FD42650ED4F00ED63F4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -299,51 +299,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		04FA3252897CE117883D45CA /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-cocoapods-playground-cocoapods-playgroundUITests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		3BC8941473FE2B6E285839C8 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-cocoapods-playground-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		6EB6946AD218D067B7B99515 /* [CP] Check Pods Manifest.lock */ = {
+		63DF104C5C4849F8726C3A4E /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -365,55 +321,99 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
+		E0AE265ECB8CEF4BAF017629 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-cocoapods-playground-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F94127C68FB5F7C615C16B14 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-cocoapods-playground-cocoapods-playgroundUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4C5B90EF2650E88900E45104 /* Sources */ = {
+		4C116FB12650ED4E00ED63F4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C5B90FB2650E88900E45104 /* ViewController.m in Sources */,
-				4C5B91032650E88A00E45104 /* main.m in Sources */,
-				4C5B90F82650E88900E45104 /* AppDelegate.m in Sources */,
+				4C116FBD2650ED4E00ED63F4 /* ViewController.m in Sources */,
+				4C116FC52650ED4F00ED63F4 /* main.m in Sources */,
+				4C116FBA2650ED4E00ED63F4 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C5B91052650E88A00E45104 /* Sources */ = {
+		4C116FC72650ED4F00ED63F4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C5B910E2650E88A00E45104 /* cocoapods_playgroundTests.m in Sources */,
+				4C116FD02650ED4F00ED63F4 /* cocoapods_playgroundTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4C5B91102650E88A00E45104 /* Sources */ = {
+		4C116FD22650ED4F00ED63F4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4C5B91192650E88A00E45104 /* cocoapods_playgroundUITests.m in Sources */,
+				4C116FDB2650ED4F00ED63F4 /* cocoapods_playgroundUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		4C5B910B2650E88A00E45104 /* PBXTargetDependency */ = {
+		4C116FCD2650ED4F00ED63F4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4C5B90F22650E88900E45104 /* cocoapods-playground */;
-			targetProxy = 4C5B910A2650E88A00E45104 /* PBXContainerItemProxy */;
+			target = 4C116FB42650ED4E00ED63F4 /* cocoapods-playground */;
+			targetProxy = 4C116FCC2650ED4F00ED63F4 /* PBXContainerItemProxy */;
 		};
-		4C5B91162650E88A00E45104 /* PBXTargetDependency */ = {
+		4C116FD82650ED4F00ED63F4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 4C5B90F22650E88900E45104 /* cocoapods-playground */;
-			targetProxy = 4C5B91152650E88A00E45104 /* PBXContainerItemProxy */;
+			target = 4C116FB42650ED4E00ED63F4 /* cocoapods-playground */;
+			targetProxy = 4C116FD72650ED4F00ED63F4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		4C5B90FE2650E88A00E45104 /* Main.storyboard */ = {
+		4C116FC02650ED4F00ED63F4 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4C5B90FF2650E88A00E45104 /* Base */,
+				4C116FC12650ED4F00ED63F4 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -421,7 +421,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4C5B911B2650E88A00E45104 /* Debug */ = {
+		4C116FDD2650ED4F00ED63F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -480,7 +480,7 @@
 			};
 			name = Debug;
 		};
-		4C5B911C2650E88A00E45104 /* Release */ = {
+		4C116FDE2650ED4F00ED63F4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -532,9 +532,9 @@
 			};
 			name = Release;
 		};
-		4C5B911E2650E88A00E45104 /* Debug */ = {
+		4C116FE02650ED4F00ED63F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EB30E6752B47BB0676224FCA /* Pods-cocoapods-playground.debug.xcconfig */;
+			baseConfigurationReference = 1C5D58B21C00F477305C31E0 /* Pods-cocoapods-playground.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -551,9 +551,9 @@
 			};
 			name = Debug;
 		};
-		4C5B911F2650E88A00E45104 /* Release */ = {
+		4C116FE12650ED4F00ED63F4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0B74B4962313098D9C4C8FCE /* Pods-cocoapods-playground.release.xcconfig */;
+			baseConfigurationReference = BF336AB7A5657C3DE0050C79 /* Pods-cocoapods-playground.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -570,9 +570,9 @@
 			};
 			name = Release;
 		};
-		4C5B91212650E88A00E45104 /* Debug */ = {
+		4C116FE32650ED4F00ED63F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0FCFDB6E12EC3D477832D659 /* Pods-cocoapods-playgroundTests.debug.xcconfig */;
+			baseConfigurationReference = C6F96613EB08A8928BF2BABB /* Pods-cocoapods-playgroundTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -590,9 +590,9 @@
 			};
 			name = Debug;
 		};
-		4C5B91222650E88A00E45104 /* Release */ = {
+		4C116FE42650ED4F00ED63F4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 43D7641388BBD788F3D482F9 /* Pods-cocoapods-playgroundTests.release.xcconfig */;
+			baseConfigurationReference = 82864A256013999A1EE85667 /* Pods-cocoapods-playgroundTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -610,9 +610,9 @@
 			};
 			name = Release;
 		};
-		4C5B91242650E88A00E45104 /* Debug */ = {
+		4C116FE62650ED4F00ED63F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 38415934BDC136B5A2E58CD6 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */;
+			baseConfigurationReference = 0F90E54A95CADB30B799AC04 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -628,9 +628,9 @@
 			};
 			name = Debug;
 		};
-		4C5B91252650E88A00E45104 /* Release */ = {
+		4C116FE72650ED4F00ED63F4 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8328B9EA9354D248842751E7 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */;
+			baseConfigurationReference = 8C39F26BA0C35E264D827FE6 /* Pods-cocoapods-playground-cocoapods-playgroundUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
@@ -649,43 +649,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4C5B90EE2650E88900E45104 /* Build configuration list for PBXProject "cocoapods-playground" */ = {
+		4C116FB02650ED4E00ED63F4 /* Build configuration list for PBXProject "cocoapods-playground" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C5B911B2650E88A00E45104 /* Debug */,
-				4C5B911C2650E88A00E45104 /* Release */,
+				4C116FDD2650ED4F00ED63F4 /* Debug */,
+				4C116FDE2650ED4F00ED63F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4C5B911D2650E88A00E45104 /* Build configuration list for PBXNativeTarget "cocoapods-playground" */ = {
+		4C116FDF2650ED4F00ED63F4 /* Build configuration list for PBXNativeTarget "cocoapods-playground" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C5B911E2650E88A00E45104 /* Debug */,
-				4C5B911F2650E88A00E45104 /* Release */,
+				4C116FE02650ED4F00ED63F4 /* Debug */,
+				4C116FE12650ED4F00ED63F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4C5B91202650E88A00E45104 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundTests" */ = {
+		4C116FE22650ED4F00ED63F4 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C5B91212650E88A00E45104 /* Debug */,
-				4C5B91222650E88A00E45104 /* Release */,
+				4C116FE32650ED4F00ED63F4 /* Debug */,
+				4C116FE42650ED4F00ED63F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4C5B91232650E88A00E45104 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundUITests" */ = {
+		4C116FE52650ED4F00ED63F4 /* Build configuration list for PBXNativeTarget "cocoapods-playgroundUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4C5B91242650E88A00E45104 /* Debug */,
-				4C5B91252650E88A00E45104 /* Release */,
+				4C116FE62650ED4F00ED63F4 /* Debug */,
+				4C116FE72650ED4F00ED63F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4C5B90EB2650E88900E45104 /* Project object */;
+	rootObject = 4C116FAD2650ED4E00ED63F4 /* Project object */;
 }

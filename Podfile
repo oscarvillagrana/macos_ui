@@ -1,9 +1,9 @@
 # Uncomment the next line to define a global platform for your project
-platform :macos, '9.0'
+platform :osx, '11.0'
 
 target 'cocoapods-playground' do
   # Comment the next line if you don't want to use dynamic frameworks
-  # use_frameworks!
+  use_frameworks!
 
   # Pods for cocoapods-playground
 
