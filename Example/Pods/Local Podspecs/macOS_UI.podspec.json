@@ -1,0 +1,22 @@
+{
+  "name": "macOS_UI",
+  "version": "0.1.0",
+  "summary": "A short description of macOS_UI.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/oscarvillagrana/macOS_UI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "oscarvillagrana": "oscarvillagrana@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/oscarvillagrana/macOS_UI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "macOS_UI/Classes/**/*"
+}
