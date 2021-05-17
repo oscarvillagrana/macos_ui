@@ -22,8 +22,8 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/oscarvillagrana/macos_ui"
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  # s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.license      = "LICENSE"
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  # s.license      = "LICENSE"
   s.author           = { 'oscarvillagrana' => 'oscarvillagrana@users.noreply.github.com' }
   s.source       = { :git => "https://github.com/oscarvillagrana/macos_ui.git", :tag => s.version }
 
@@ -35,10 +35,12 @@ Pod::Spec.new do |s|
   # s.source_files = 'macOS_UI/Classes/**/*'
   # s.source_files  = 'macOS_UI/Classes/*.{h,m,xib}'
   # s.source_files  = 'macOS_UI/Classes/ViewController.{h,m,xib}'
-  # s.source_files  = 'macOS_UI/Classes/ViewController.h'
-  # s.source_files  = "Classes", "Classes/**/*.{h,m,xib}"
-  s.source_files  = 'ViewController.{h,m,xib}'
-  
+  # s.source_files  = 'macOS_UI/Classes/ViewController.h','macOS_UI/Classes/ViewController.m','macOS_UI/Classes/ViewController.xib'
+  # s.source_files  = "Classes", "Classes/*.{h,m,xib}"
+  s.source_files  = 'Classes/*.{h,m,xib}'
+  # s.source_files  = 'Classes/ViewController.{h,m,xib}'
+  # s.source_files  = 'Classes/ViewController.*'
+
   # s.resource_bundles = {
   #   'macOS_UI' => ['macOS_UI/Assets/*.png']
   # }
