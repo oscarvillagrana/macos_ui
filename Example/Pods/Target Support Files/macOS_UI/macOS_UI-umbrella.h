@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "Blank.h"
+#import "ContainerViews.h"
+#import "TextViews.h"
 
 FOUNDATION_EXPORT double macOS_UIVersionNumber;
 FOUNDATION_EXPORT const unsigned char macOS_UIVersionString[];

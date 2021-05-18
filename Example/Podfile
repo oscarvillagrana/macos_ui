@@ -1,9 +1,12 @@
 use_frameworks!
 
-target 'macOS_UI_Example' do
-  pod 'macOS_UI', :path => '../'
+platform :osx, '10.10'
 
-  target 'macOS_UI_Tests' do
+target 'macOS_UI' do
+  pod 'macOS_UI', :path => '../'
+  # pod 'macOS_UI', :path => '../Classes'
+
+  target 'macOS_UIUITests' do
     inherit! :search_paths
 
     

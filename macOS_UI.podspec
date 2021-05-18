@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'macOS_UI'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'User Interface library for macOS'
 
 # This description is used to generate tags and improve search results.
@@ -37,7 +37,8 @@ Pod::Spec.new do |s|
   # s.source_files  = 'macOS_UI/Classes/ViewController.{h,m,xib}'
   # s.source_files  = 'macOS_UI/Classes/ViewController.h','macOS_UI/Classes/ViewController.m','macOS_UI/Classes/ViewController.xib'
   # s.source_files  = "Classes", "Classes/*.{h,m,xib}"
-  s.source_files  = 'Classes/*.{h,m,xib}'
+  s.source_files  = 'Classes/**/*.{h,m,xib,storyboard}'
+                    # 'ContainerViews/*.{h,m,xib}'
   # s.source_files  = 'Classes/ViewController.{h,m,xib}'
   # s.source_files  = 'Classes/ViewController.*'
 

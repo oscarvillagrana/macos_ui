@@ -1,0 +1,15 @@
+//
+//  main.m
+//  macOS_UI
+//
+//  Created by Os on 5/17/21.
+//
+
+#import <Cocoa/Cocoa.h>
+
+int main(int argc, const char * argv[]) {
+    @autoreleasepool {
+        // Setup code that might create autoreleased objects goes here.
+    }
+    return NSApplicationMain(argc, argv);
+}

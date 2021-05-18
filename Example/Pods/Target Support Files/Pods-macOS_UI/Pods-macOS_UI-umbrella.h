@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_macOS_UI_ExampleVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_macOS_UI_ExampleVersionString[];
+FOUNDATION_EXPORT double Pods_macOS_UIVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_macOS_UIVersionString[];
 

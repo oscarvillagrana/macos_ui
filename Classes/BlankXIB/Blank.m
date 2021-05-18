@@ -2,16 +2,16 @@
 //  ViewController.m
 //  macOS_UI
 //
-//  Created by Os on 5/16/21.
+//  Created by Oscar Villagrana on 5/16/21.
 //
 
-#import "ViewController.h"
+#import "Blank.h"
 
-@interface ViewController ()
+@interface Blank ()
 
 @end
 
-@implementation ViewController
+@implementation Blank
 
 - (void)viewDidLoad {
     [super viewDidLoad];
